@@ -179,7 +179,6 @@ section .title::after{
 .home{
     display: flex;
     background: url("images/avengers.jpg") no-repeat center;
-    opacity:0.5;
     height: 150vh;
     color:#fff;
     min-height: 500px;
